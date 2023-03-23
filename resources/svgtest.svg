@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="700" height="700" viewBox="0 0 700 700" xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink">
+<ellipse id="52" cx="50.0" cy="350.0" rx="52.0" ry="52.0" fill="rgb(96,91,245)" visibility="visible"  >
+	<animate attributeName="cx" attributeType="XML"
+		begin="2s" dur="3" fill="freeze" from="50.0" to="150.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="2s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="10s" dur="3" fill="freeze" from="150.0" to="250.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="10s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="24s" dur="3" fill="freeze" from="250.0" to="350.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="24s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="32s" dur="3" fill="freeze" from="350.0" to="450.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="32s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="64s" dur="3" fill="freeze" from="450.0" to="550.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="64s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+</ellipse>
+<ellipse id="33" cx="150.0" cy="350.0" rx="33.0" ry="33.0" fill="rgb(75,201,77)" visibility="visible"  >
+	<animate attributeName="cx" attributeType="XML"
+		begin="2s" dur="3" fill="freeze" from="150.0" to="50.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="2s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="14s" dur="3" fill="freeze" from="50.0" to="150.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="14s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="40s" dur="3" fill="freeze" from="150.0" to="250.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="40s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="72s" dur="3" fill="freeze" from="250.0" to="350.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="72s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+</ellipse>
+<ellipse id="19" cx="250.0" cy="350.0" rx="19.0" ry="19.0" fill="rgb(224,111,58)" visibility="visible"  >
+	<animate attributeName="cx" attributeType="XML"
+		begin="10s" dur="3" fill="freeze" from="250.0" to="150.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="10s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="14s" dur="3" fill="freeze" from="150.0" to="50.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="14s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="44s" dur="3" fill="freeze" from="50.0" to="150.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="44s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+</ellipse>
+<ellipse id="41" cx="350.0" cy="350.0" rx="41.0" ry="41.0" fill="rgb(91,203,240)" visibility="visible"  >
+	<animate attributeName="cx" attributeType="XML"
+		begin="24s" dur="3" fill="freeze" from="350.0" to="250.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="24s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="36s" dur="3" fill="freeze" from="250.0" to="350.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="36s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="68s" dur="3" fill="freeze" from="350.0" to="450.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="68s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+</ellipse>
+<ellipse id="8" cx="450.0" cy="350.0" rx="8.0" ry="8.0" fill="rgb(224,58,105)" visibility="visible"  >
+	<animate attributeName="cx" attributeType="XML"
+		begin="32s" dur="3" fill="freeze" from="450.0" to="350.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="32s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="36s" dur="3" fill="freeze" from="350.0" to="250.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="36s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="40s" dur="3" fill="freeze" from="250.0" to="150.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="40s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="44s" dur="3" fill="freeze" from="150.0" to="50.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="44s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+</ellipse>
+<ellipse id="66" cx="550.0" cy="350.0" rx="66.0" ry="66.0" fill="rgb(189,117,240)" visibility="visible"  >
+	<animate attributeName="cx" attributeType="XML"
+		begin="60s" dur="3" fill="freeze" from="550.0" to="650.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="60s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+</ellipse>
+<ellipse id="24" cx="650.0" cy="350.0" rx="24.0" ry="24.0" fill="rgb(235,215,42)" visibility="visible"  >
+	<animate attributeName="cx" attributeType="XML"
+		begin="60s" dur="3" fill="freeze" from="650.0" to="550.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="60s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="64s" dur="3" fill="freeze" from="550.0" to="450.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="64s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="68s" dur="3" fill="freeze" from="450.0" to="350.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="68s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+	<animate attributeName="cx" attributeType="XML"
+		begin="72s" dur="3" fill="freeze" from="350.0" to="250.0"  />
+	<animate attributeName="cy" attributeType="XML"
+		begin="72s" dur="3" fill="freeze" from="350.0" to="350.0"  />
+</ellipse>
+
+</svg>

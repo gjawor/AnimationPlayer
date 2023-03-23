@@ -1,0 +1,32 @@
+canvas 700 700 
+oval layer 4 name 52 center-x 50 center-y 350 x-radius 52 y-radius 52 color 96 91 245 from 0 to 80
+oval layer 3 name 33 center-x 150 center-y 350 x-radius 33 y-radius 33 color 75 201 77 from 0 to 80
+oval layer 2 name 19 center-x 250 center-y 350 x-radius 19 y-radius 19 color 224 111 58 from 0 to 80
+oval layer 5 name 41 center-x 350 center-y 350 x-radius 41 y-radius 41 color 91 203 240 from 0 to 80
+oval name 8 center-x 450 center-y 350 x-radius 8 y-radius 8 color 224 58 105 from 0 to 80
+oval layer 5 name 66 center-x 550 center-y 350 x-radius 66 y-radius 66 color 189 117 240 from 0 to 80
+oval layer 6 name 24 center-x 650 center-y 350 x-radius 24 y-radius 24 color 235 215 42 from 0 to 80
+move name 33 moveto 150 350 50 350 from 2 to 5
+move name 52 moveto 50 350 150 350 from 2 to 5
+move name 19 moveto 250 350 150 350 from 10 to 13
+move name 52 moveto 150 350 250 350 from 10 to 13
+move name 19 moveto 150 350 50 350 from 14 to 17
+move name 33 moveto 50 350 150 350 from 14 to 17
+move name 41 moveto 350 350 250 350 from 24 to 27
+move name 52 moveto 250 350 350 350 from 24 to 27
+move name 8 moveto 450 350 350 350 from 32 to 35
+move name 52 moveto 350 350 450 350 from 32 to 35
+move name 8 moveto 350 350 250 350 from 36 to 39
+move name 41 moveto 250 350 350 350 from 36 to 39
+move name 8 moveto 250 350 150 350 from 40 to 43
+move name 33 moveto 150 350 250 350 from 40 to 43
+move name 8 moveto 150 350 50 350 from 44 to 47
+move name 19 moveto 50 350 150 350 from 44 to 47
+move name 24 moveto 650 350 550 350 from 60 to 63
+move name 66 moveto 550 350 650 350 from 60 to 63
+move name 24 moveto 550 350 450 350 from 64 to 67
+move name 52 moveto 450 350 550 350 from 64 to 67
+move name 24 moveto 450 350 350 350 from 68 to 71
+move name 41 moveto 350 350 450 350 from 68 to 71
+move name 24 moveto 350 350 250 350 from 72 to 75
+move name 33 moveto 250 350 350 350 from 72 to 75

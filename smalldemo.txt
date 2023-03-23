@@ -1,0 +1,11 @@
+canvas 400 400
+rectangle layer 2 name R min-x 200 min-y 200 width 50 height 100 color 1
+0 0 from 1 to 30
+oval name C center-x 100 center-y 100 x-radius 60 y-radius 30 color 7 230 53
+from 1 to 30
+move name C moveto 100 100 40 150 from 2 to 5
+scale name R scaleto 50 100 70 70 from 3 to 7
+scale name C scaleto 60 30 100 100 from 7 to 11
+move name R moveto 200 200 300 300 from 10 to 14
+change-color name C colorto 7 230 53 66 152 245 from 13 to 19
+move name R moveto 300 300 200 80 from 17 to 20
